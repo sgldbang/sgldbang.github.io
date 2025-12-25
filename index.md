@@ -2,47 +2,33 @@
 layout: page
 ---
 
-# About Me
+# Introduction to Wulan Maiduo (Ling Cage)
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://sgldbang.github.io/Wulanmaiduo.jpg" class="floatpic">
 
-Here is **Hanlin Cai** [(Lance, 蔡汉霖)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+Here is **Wulanmaiduo** [(Wulanmaiduo, 乌兰麦朵)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
 
-I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust and CSC Scholarships. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
-
-I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
-
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
-- Graph Representation
-
----
-
-## News and Updates
-
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-
+Wulan Maiduo is a pivotal new character in Ling Cage Season 2. She is a practitioner from Dragon Bone Village and is voiced by Xu Jiaqi. Here are her core details:
+ 
+Basic Settings
+ 
+Identity: Daughter of Wulan Aodeng, the mentor of returning-to-origin training in Dragon Bone Village, and younger sister of Wulan Haisang; the first Justice Monitor of the children in Dragon Bone Village.
+Appearance: She has a round face, often wears a red top with dark pants; her inseparable companion is a small falcon named Wulan Chagai.
+Personality: Gentle, kind and healing, yet also brave, resolute and responsible.
+ 
+Abilities & Combat
+ 
+Core Combat Power: She wields the Six Harmony Spear, whose basic moves focus on blocking, seizing and stabbing. The spear can be thrown over long distances, and its tip is equipped with high-voltage electric pulses.
+Special Potential: By activating non-coding genes, she can take the initiative to unlock Source Substance Potential, which turns her pupils into five colors (black, white, red, blue and yellow) and greatly enhances her physical functions. She shares vision with Chagai, enabling the coordination of aerial reconnaissance and ground combat.
+Combat Positioning: She serves as battlefield support and is capable of engaging multiple targets, being able to control the battle situation and make accurate predictions.
+ 
+Plot Highlights
+ 
+She made a stunning debut by defeating three Corruscers in a row in one battle.
+To cover Mark's mission of repairing the shielding tower, she took the initiative to unlock her Source Substance Potential to lure a swarm of Corruscers, and finally sacrificed herself heroically, becoming a highly touching character in the early part of Season 2.
 
 ---
-
 <br>
-
-## Chat with me
-
-**Dec 2025:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Feel free to reach out!
 
 <!-- Calendly inline widget begin -->
 
