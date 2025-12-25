@@ -26,12 +26,11 @@ Plot Highlights
  
 She made a stunning debut by defeating three Corruscers in a row in one battle.
 To cover Mark's mission of repairing the shielding tower, she took the initiative to unlock her Source Substance Potential to lure a swarm of Corruscers, and finally sacrificed herself heroically, becoming a highly touching character in the early part of Season 2.
-
 ---
 <br>
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> -->
 <!-- Calendly inline widget end -->

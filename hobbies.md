@@ -19,8 +19,5 @@ Proficient in the core moves of blocking, seizing and stabbing with the Six Harm
 ## Wulan Maiduo's Pet
 
 Wulan Chagai is a small falcon and Maiduo’s inseparable companion. It shares vision with Maiduo for aerial reconnaissance, forming an air-ground combat linkage, and is also her emotional support in battles.
-
-<div>
 <img src="/images/a small falcon.jpg">
-</div>
 <br>
