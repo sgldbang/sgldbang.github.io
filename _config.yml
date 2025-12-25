@@ -28,18 +28,15 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Wulan Maiduo
     url: /
-  - title: Abilities
-    url: /hobbies/
+  # - title: Abilities
+  #   url: /hobbies/
   - title: Story & Plot
     url: /story/
   - title: Pet (Chagai)
     url: /pet/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
+
 
 
 # --------------------------------------------------
