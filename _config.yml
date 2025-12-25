@@ -8,7 +8,6 @@ owner:
   name: sgldbang
   avatar: sgldbang.jpg
 
-  twitter: 无
   github: sgldbang
   bilibili: 3546705421142300
 
@@ -27,14 +26,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: About Wulan Maiduo
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Services
-    url: /services/
-  - title: Awards
-    url: /awards/
+  - title: Abilities
+    url: /hobbies/
+  - title: Story & Plot
+    url: /story/
+  - title: Pet (Chagai)
+    url: /pet/
   - title: Hobbies
     url: /hobbies/
   - title: Blogs

@@ -1,23 +1,15 @@
 ---
 layout: page
 permalink: /hobbies/index.html
-title: Hobbies
+title: Abilities
 ---
 
-# Hobbies
+# Wulan Maiduo's Abilities
+## Six Harmony Spear Mastery
+Proficient in blocking, seizing and stabbing with the Six Harmony Spear. The spear can be thrown over long distances, and its tip is equipped with high-voltage electric pulses to deal heavy damage to Corruscers.
 
-## Spear Skills & Monster Fighting
+## Source Substance Potential
+By activating non-coding genes, Maiduo unlocks the Source Substance Potential—her pupils turn into five colors (black, white, red, blue, yellow), and her physical strength, speed and reaction ability are greatly enhanced.
 
-<div class="third">
-<img src="/images/Spear Skills .jpg">
-<img src="/images/Monster Fighting.jpg">
-</div>
-<br>Six Harmony Spear Mastery
-Proficient in the core moves of blocking, seizing and stabbing with the Six Harmony Spear. She can throw the spear over long distances, and the spearhead is equipped with high-voltage electric pulses, which can deal powerful damage to enemies.
-
-
-## Wulan Maiduo's Pet
-
-Wulan Chagai is a small falcon and Maiduo’s inseparable companion. It shares vision with Maiduo for aerial reconnaissance, forming an air-ground combat linkage, and is also her emotional support in battles.
-<img src="/images/a small falcon.jpg">
-<br>
+## Air-Ground Combat Linkage
+She shares vision with her falcon Chagai for aerial reconnaissance, enabling precise prediction of enemy movements and effective multi-target combat on the ground.
